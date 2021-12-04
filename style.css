@@ -1,0 +1,20 @@
+@media screen and (min-width: 1920px){
+    body{
+            max-width: 65%;
+            margin: auto;
+        }
+    }
+
+@media screen and (min-width: 600px){
+    .form-container{
+        max-width: 500px;
+        margin: auto;
+    }
+}
+
+@media screen and (min-width: 800px){
+        .form-container2{
+            max-width: 700px;
+            margin: auto;
+        }
+    }
